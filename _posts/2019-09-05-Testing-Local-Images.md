@@ -36,16 +36,29 @@ we start the analysis by cleaning the data by:
 
 # The Result
 
-[top ten station by the # of exists]({{ site.url }}/images/Top_Ten_Stations.png)
+after cleaning and analyzing the data we get these results for the top ten most crowded stations based on the number of exists
+
+![top ten station by the # of exists]({{ site.url }}/images/Top_Ten_Stations.png)
 
 
 
-[top ten turnstilles by the # of exists]({{ site.url }}/images/top_ten_turnstiles.png)
+then we extract the top five and start analyzing them to get the most  crowded day , time and turnstile and graph them to make them easy to understand and read
+
+![the crowded days in the weeks]({{ site.url }}/images/Crowded_days_in_the week.png)
+
+![the crowded time of the day]({{ site.url }}/images/Crowded_time_in_the_week.png)
+
+![top ten turnstilles by the # of exists]({{ site.url }}/images/top_ten_turnstiles.png)
 
 
 
-[top ten station by the # of exists]({{ site.url }}/images/Top_Ten_Stations.png)
+# Conclusion
+
+based on the results we had we recommend the street team to focus on:
+
+-  34-ST_PENN STA, GRD CNTRL, 34- ST HERALED, 14 ST_UNION, and TIMES SW-42 ST station.
+- avoid weekend and focus on Wednesday and Thursday.
+- be in the stations between 8:00 am  to 11:00 am.
 
 
 
-[top ten station by the # of exists]({{ site.url }}/images/Top_Ten_Stations.png)
