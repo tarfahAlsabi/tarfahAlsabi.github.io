@@ -23,7 +23,7 @@ the project was building a model to predicates the prices of the laptops based o
 
 as shown on the work-flow under.  my methodology was to scrape the data form [new egg](https://www.newegg.com/global/sa-en/) website using selenium and beautiful soup libraries then cleaning  the data and building the model using python .
 
-![methodology work flow](/tmp/mozilla_tarfah0/METHODOLOGY.jpg)
+![methodology work flow]({{ site.url }}/images/METHODOLOGY.jpg)
 
 
 
@@ -50,6 +50,6 @@ then I tried to improve it by using:
 
 My final Model was : OLS Regression model with R^2 = 0.522
 
-![the OLS result](/home/tarfah/Desktop/tarfahAlsabi.github.io/images/OLS result.png)
+![the OLS result]({{ site.url }}/images/OLS result.png)
 
-![OLS feature result](/home/tarfah/Desktop/tarfahAlsabi.github.io/images/features result table .png)
+![OLS feature result]({{ site.url }}//images/features result table .png)
